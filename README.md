@@ -12,7 +12,7 @@ Python implementations of classic Artificial Intelligence algorithms, written fo
 | `backtracking.py` | Backtracking search |
 | `forward.py` | Forward checking |
 | `HW1.py`–`HW4.py` | Homework assignments |
-| `part2.py`, `two+two.py` | Additional exercises |
+| `part2.py`, `two_plus_two.py` | Additional exercises |
 
 ## Running
 ```bash
