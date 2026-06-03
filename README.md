@@ -1,4 +1,4 @@
-# Intro to AI — Coursework
+# Intro to AI - Coursework
 
 Python implementations of classic Artificial Intelligence algorithms, written for an introductory AI course.
 
@@ -11,7 +11,7 @@ Python implementations of classic Artificial Intelligence algorithms, written fo
 | `minimax.py` | Minimax (game trees) |
 | `backtracking.py` | Backtracking search |
 | `forward.py` | Forward checking |
-| `HW1.py`–`HW4.py` | Homework assignments |
+| `HW1.py`-`HW4.py` | Homework assignments |
 | `part2.py`, `two_plus_two.py` | Additional exercises |
 
 ## Running
