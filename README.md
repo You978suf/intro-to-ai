@@ -1,4 +1,4 @@
-# Intro to AI - Coursework
+# Intro to AI: Coursework
 
 Python implementations of classic Artificial Intelligence algorithms, written for an introductory AI course.
 
